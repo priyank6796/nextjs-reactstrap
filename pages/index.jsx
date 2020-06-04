@@ -20,6 +20,7 @@ class Index extends React.Component {
 
     return (
       <>
+        <div> <h1>I am trying to get it done</h1></div>
         <HeadDefault
           title="Home | Next.JS with Reactstrap (React dashboard web application)"
           description="NextJS with Reactstrap components with SCSS library, a NextJS dashboard template."
